@@ -10,6 +10,19 @@ angular demo（未使用懒加载）
 项目信息
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
+git命令：
+提交代码 git pull origin master; 
+git add -A; 
+git commit -m "内容"; 
+git push -u origin master;
+
+创建分支：git branch newBranchName;
+把新创建的分支提交到远程仓库： git push origin newBranchName;
+查看目前仓库的所有分支：git branch -a;
+从master分支切换到newBranchName分支： git checkout newBranchName;
+再把当前修改的提交到newBranchName分支：git commit -m "info";
+                                      git push -u origin newBranchName;
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
