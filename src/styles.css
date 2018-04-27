@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+/* 引入第三方的类库*/
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+@import "~primeng/resources/primeng.min.css";
+@import "~primeng/resources/themes/omega/theme.css";
+@import "~admin-lte/dist/css/AdminLTE.min.css";
+@import "~admin-lte/dist/css/skins/skin-blue.min.css";
